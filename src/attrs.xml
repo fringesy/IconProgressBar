@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="IconProgressBar">
+        <!-- 背景色 -->
+        <attr name="ipb_background_color" format="color" />
+        <!-- 进度条颜色 -->
+        <attr name="ipb_progress_color" format="color" />
+        <!-- 指示器颜色 -->
+        <attr name="ipb_indicator_color" format="color" />
+        <!-- 指示器阴影 -->
+        <attr name="ipb_layer_color" format="color" />
+        <!-- 最大值 -->
+        <attr name="ipb_max_value" format="float" />
+        <!-- 当前值 -->
+        <attr name="ipb_progress_value" format="float" />
+        <!-- 指示器坐左侧图标 -->
+        <attr name="ipb_left_icon" format="reference" />
+        <!-- 指示器坐右侧图标 -->
+        <attr name="ipb_right_icon" format="reference" />
+    </declare-styleable>
+</resources>
