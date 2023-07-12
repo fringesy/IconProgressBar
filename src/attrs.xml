@@ -14,9 +14,9 @@
         <attr name="ipb_max_value" format="float" />
         <!-- 当前值 -->
         <attr name="ipb_progress_value" format="float" />
-        <!-- 指示器坐左侧图标 -->
+        <!-- 左侧图标 -->
         <attr name="ipb_left_icon" format="reference" />
-        <!-- 指示器坐右侧图标 -->
+        <!-- 右侧图标 -->
         <attr name="ipb_right_icon" format="reference" />
     </declare-styleable>
 </resources>
